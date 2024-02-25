@@ -11,7 +11,7 @@
 	<groupId>com.kalyan</groupId>
 	<artifactId>SpringBootCurdOperations</artifactId>
 	<version>1.0.RELEASE</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>Spring_boot_crud_operations_war</name>
 	<description>Spring boot curd operations</description>
 	<properties>
@@ -82,6 +82,6 @@
 			</plugin>
 			
 		</plugins>
-		<finalName>ContactDetails</finalName>
+		<finalName>ContactDetailsWar</finalName>
 	</build>
 </project>
