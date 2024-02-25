@@ -18,7 +18,7 @@ import com.kalyan.exception.NoContactFoundException;
 import com.kalyan.service.ContactService;
 
 @Controller
-@RequestMapping("/contact")
+@RequestMapping("/ContactDetailsWar")
 public class ContactController {
 
 	@Autowired
